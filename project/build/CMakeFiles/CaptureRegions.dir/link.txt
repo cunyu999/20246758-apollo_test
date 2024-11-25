@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CaptureRegions.dir/src/main.cpp.o CMakeFiles/CaptureRegions.dir/src/capture_regions.cpp.o -o CaptureRegions 

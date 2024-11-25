@@ -1,0 +1,3 @@
+/home/ros/project/build/CMakeFiles/CaptureRegions.dir
+/home/ros/project/build/CMakeFiles/edit_cache.dir
+/home/ros/project/build/CMakeFiles/rebuild_cache.dir
